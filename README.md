@@ -10,11 +10,11 @@
                 |_|\___/\___/_|___/\___/_\_\              
                                                                        
                                                                     
-                    [1] Find a Person or a Word
-                    [2] Search Website
-                    [3] Help / More info
-                    [0] Exit
-                    >>> 
+                [1] Find a Person or a Word
+                [2] Search Website
+                [3] Help / More info
+                [0] Exit
+                >>> 
                     
   ```
    
