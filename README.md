@@ -25,7 +25,7 @@
 <details open>
 <summary>Info</summary>
 
-This script use the module [Google Search](https://github.com/MarioVilas/googlesearch) and the operators Google (Dork) for make HTTP requests to the site or the word indicated in the variables and display the URLs corresponding to the variables in the database folder.
+This script use the module [Google Search](https://github.com/MarioVilas/googlesearch) and the operators Google ([Dork](https://github.com/redduxi/Google-Dorks-Resources#search-operators)) for make HTTP requests to the site or the word indicated in the variables and display the URLs corresponding to the variables in the database folder.
     
 <div align="center">
 <img src="https://github.com/Dayslo/Image/blob/main/Google%20Seach%20ToolBox.png" width="80%"/>
