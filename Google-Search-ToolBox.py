@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 ###################################################
-##               Dayslo - 02/2022                ##
+##                Dayslo - 02/2022               ##
 ## https://github.com/Dayslo/GoogleSearchToolBox ##
-##                   Ver - 1.0                   ##
+##                    Ver - 1.0                  ##
 ###################################################
 
 
@@ -103,10 +103,10 @@ def Person():
             else:
                 #Create file
                 create_file_person_database = open(txt_create_file_person_database_path, 'w')
-                create_file_person_database.write("Valeur rechercher " + queryperson + "\tNombre de sortie " + str_nomberperson + "\n")
+                create_file_person_database.write("Search " + queryperson + "\t" + "Number of websites " + str_nomberperson + "\n" * 2)
                 #Search on Google with the values entered in the variables
                 for url in search(queryperson, start=0 , stop=nomberperson, pause=2.0):
-                    create_file_person_database.write(url + "\n")
+                    create_file_person_database.write("-" * 79 + "\n" * 2 + url + "\n" * 2)
                 create_file_person_database.close()
                 print('\033[32m' + '\nSUCCESSFULLY, Save result ' + txt_create_file_person_database_path + '\033[39m')
   
@@ -121,10 +121,10 @@ def Person():
                         print(i)
                         #Create file
                         create_file_person_database = open(txt_create_file_person_database_path, 'w')
-                        create_file_person_database.write("Valeur rechercher " + queryperson + "\tNombre de sortie " + str_nomberperson + "\n")
+                        create_file_person_database.write("Search " + queryperson + "\t" + "Number of websites " + str_nomberperson + "\n" * 2)
                         #Search on Google with the values entered in the variables
                         for url in search(queryperson, start=0 , stop=nomberperson, pause=2.0):
-                            create_file_person_database.write(url + "\n")
+                            create_file_person_database.write("-" * 79 + "\n" * 2 + url + "\n" * 2)
                         create_file_person_database.close()
                         print('\033[32m' + '\nSUCCESSFULLY, Save result ' + txt_create_file_person_database_path + '\033[39m')
                         break            
@@ -169,10 +169,10 @@ def Website():
         if file_website == "1":
             txt_Website_database_path = "database\Website_database.txt"
             Website_database = open(txt_Website_database_path, 'w')
-            Website_database.write("Valeur rechercher " + querywebsite + "\tNombre de sortie " + str_nomberwebsite + "\n")
+            Website_database.write("Search " + querywebsite + "\t" + "Number of websites " + str_nomberwebsite + "\n" * 2)
             #Search on Google with the values entered in the variables
             for url in search(querywebsite, start=0 , stop=nomberwebsite, pause=2.0):
-                Website_database.write(url + "\n")
+                Website_database.write("-" * 79 + "\n" * 2 + url + "\n" * 2)
             Website_database.close()
             print('\033[32m' + '\nSUCCESSFULLY, Save result ' + txt_Website_database_path + '\033[39m') 
 
@@ -190,10 +190,10 @@ def Website():
             else:
                 #Create file
                 create_file_website_database = open(txt_create_file_website_database_path, 'w')
-                create_file_website_database.write("Valeur rechercher " + querywebsite + "\tNombre de sortie " + str_nomberwebsite + "\n")
+                create_file_website_database.write("Search " + querywebsite + "\t" + "Number of websites " + str_nomberwebsite + "\n" * 2)
                 #Search on Google with the values entered in the variables
                 for url in search(querywebsite, start=0 , stop=nomberwebsite, pause=2.0):
-                    create_file_website_database.write(url + "\n")
+                    create_file_website_database.write("-" * 79 + "\n" * 2 + url + "\n" * 2)
                 create_file_website_database.close()
                 print('\033[32m' + '\nSUCCESSFULLY, Save result ' + txt_create_file_website_database_path + '\033[39m')
   
@@ -209,10 +209,10 @@ def Website():
                         print(i)
                         #Create file
                         create_file_website_database = open(txt_create_file_website_database_path, 'w')
-                        create_file_website_database.write("Valeur rechercher " + querywebsite + "\tNombre de sortie " + str_nomberwebsite + "\n")
+                        create_file_website_database.write("Search " + querywebsite + "\t" + "Number of websites " + str_nomberwebsite + "\n" * 2)
                         #Search on Google with the values entered in the variables
                         for url in search(querywebsite, start=0 , stop=nomberwebsite, pause=2.0):
-                            create_file_website_database.write(url + "\n")
+                            create_file_website_database.write("-" * 79 + "\n" * 2 + url + "\n" * 2)
                         create_file_website_database.close()
                         print('\033[32m' + '\nSUCCESSFULLY, Save result ' + txt_create_file_website_database_path + '\033[39m')
                         break            
