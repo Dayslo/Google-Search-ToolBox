@@ -5,5 +5,6 @@
 Clone the folder on your desktop
 ```bash
 git clone https://github.com/Dayslo/GoogleSearchToolBox.git
+cd GoogleSearchToolBox
 ```
 ###### The smallest heading
