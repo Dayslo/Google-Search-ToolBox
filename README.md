@@ -4,7 +4,7 @@
 ## :globe_with_meridians: - Installation
 Clone the folder on your desktop
 ```bash
-git clone https://github.com/Dayslo/GoogleSearchToolBox.git
+git clone https://github.com/Dayslo/GoogleSearchToolBox.git #Clone
 cd GoogleSearchToolBox
 ```
 ###### The smallest heading
