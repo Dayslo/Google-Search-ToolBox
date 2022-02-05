@@ -47,5 +47,3 @@ pip3 install -r requirements.txt
 ```
 
 </details>
-
-###### The smallest heading
