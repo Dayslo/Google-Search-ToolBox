@@ -43,7 +43,7 @@ Clone the folder on your desktop and install [requirements.txt](https://github.c
 ```bash
 git clone https://github.com/Dayslo/GoogleSearchToolBox.git #Clone
 cd GoogleSearchToolBox
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt #Install modules
 ```
 
 </details>
