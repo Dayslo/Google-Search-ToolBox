@@ -41,9 +41,9 @@ This script use the module [Google Search](https://github.com/MarioVilas/googles
 Clone the folder on your desktop and install [requirements.txt](https://github.com/Dayslo/GoogleSearchToolBox/blob/main/requirements.txt).
 
 ```bash
-git clone https://github.com/Dayslo/GoogleSearchToolBox.git #Clone
+git clone https://github.com/Dayslo/GoogleSearchToolBox.git
 cd GoogleSearchToolBox
-pip3 install -r requirements.txt #Install modules
+pip3 install -r requirements.txt
 ```
 
 </details>
