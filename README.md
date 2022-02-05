@@ -1,3 +1,5 @@
+  # Google Search ToolBox
+  
   ``` py
     ___                _       ___                  _     
    / __|___  ___  __ _| |___  / __| ___ __ _ _ _ __| |_   
@@ -25,7 +27,7 @@
 
 
 
-# Google Search ToolBox
+
 ## :desktop_computer: - Preview
 ## :open_book: - What's it ?
 ## :globe_with_meridians: - Installation
