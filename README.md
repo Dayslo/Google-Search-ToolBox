@@ -23,9 +23,7 @@
 <details open>
 <summary>Info</summary>
 
-Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
-[**Python>=3.7.0**](https://www.python.org/) environment, including
-[**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
+This script use the module [Google Search](https://github.com/MarioVilas/googlesearch) and the operators Google (Dork) for make HTTP requests to the site or the word indicated in the variables and display the URLs corresponding to the variables.
 
 ```bash
 git clone https://github.com/ultralytics/yolov5  # clone
