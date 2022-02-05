@@ -17,27 +17,11 @@
                 >>> 
                    
 ```
-   
-   
-   
-   
 
-
-
-
-
-## :desktop_computer: - Preview
-## :open_book: - What's it ?
-## :globe_with_meridians: - Installation
-Clone the folder on your desktop
-```bash
-git clone https://github.com/Dayslo/GoogleSearchToolBox.git #Clone
-cd GoogleSearchToolBox
-```
-## <div align="center">Quick Start Examples</div>
+## <div align="center">What's it ?</div>
 
 <details open>
-<summary>Install</summary>
+<summary>Info</summary>
 
 Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
 [**Python>=3.7.0**](https://www.python.org/) environment, including
@@ -47,6 +31,35 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 git clone https://github.com/ultralytics/yolov5  # clone
 cd yolov5
 pip install -r requirements.txt  # install
+```
+
+</details>
+
+<details open>
+<summary>Help</summary>
+
+Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
+[**Python>=3.7.0**](https://www.python.org/) environment, including
+[**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
+
+```bash
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+```
+
+</details>
+
+## <div align="center">Quick Start Examples</div>
+
+<details open>
+<summary>Install</summary>
+
+Clone the folder on your desktop and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt).
+
+```bash
+git clone https://github.com/Dayslo/GoogleSearchToolBox.git #Clone
+cd GoogleSearchToolBox
 ```
 
 </details>
