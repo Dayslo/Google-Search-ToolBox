@@ -1,3 +1,5 @@
+# <div align="center">Google Search ToolBox | Ver 1.0</div>
+
 ``` py
     ___                _       ___                  _     
    / __|___  ___  __ _| |___  / __| ___ __ _ _ _ __| |_   
@@ -23,27 +25,12 @@
 <details open>
 <summary>Info</summary>
 
-This script use the module [Google Search](https://github.com/MarioVilas/googlesearch) and the operators Google (Dork) for make HTTP requests to the site or the word indicated in the variables and display the URLs corresponding to the variables.
+This script use the module [Google Search](https://github.com/MarioVilas/googlesearch) and the operators Google (Dork) for make HTTP requests to the site or the word indicated in the variables and display the URLs corresponding to the variables in the database folder.
     
 <div align="center">
 <img src="https://github.com/Dayslo/Image/blob/main/Google%20Seach%20ToolBox.png" width="80%"/>
 </div>
  
-</details>
-
-<details open>
-<summary>Help</summary>
-
-Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
-[**Python>=3.7.0**](https://www.python.org/) environment, including
-[**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
-
-```bash
-git clone https://github.com/ultralytics/yolov5  # clone
-cd yolov5
-pip install -r requirements.txt  # install
-```
-
 </details>
 
 ## <div align="center">Quick Start Examples</div>
