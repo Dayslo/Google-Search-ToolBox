@@ -4,6 +4,6 @@
 ## :globe_with_meridians: - Installation
 Clone the folder on your desktop
 ```bash
-pip3 install -r requirements.txt
+git clone https://github.com/Dayslo/GoogleSearchToolBox.git
 ```
 ###### The smallest heading
