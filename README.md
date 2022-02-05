@@ -24,13 +24,11 @@
 <summary>Info</summary>
 
 This script use the module [Google Search](https://github.com/MarioVilas/googlesearch) and the operators Google (Dork) for make HTTP requests to the site or the word indicated in the variables and display the URLs corresponding to the variables.
-
-```bash
-git clone https://github.com/ultralytics/yolov5  # clone
-cd yolov5
-pip install -r requirements.txt  # install
-```
-
+    
+<div align="center">
+<img src="https://github.com/Dayslo/Image/blob/main/Google%20Seach%20ToolBox.png" width="80%"/>
+</div>
+ 
 </details>
 
 <details open>
