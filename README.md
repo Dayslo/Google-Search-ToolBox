@@ -2,8 +2,7 @@
 ## :desktop_computer: - Preview
 ## :open_book: - What's it ?
 ## :globe_with_meridians: - Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.txt.
-
+Clone the folder on your desktop
 ```bash
 pip3 install -r requirements.txt
 ```
