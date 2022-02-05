@@ -38,11 +38,12 @@ This script use the module [Google Search](https://github.com/MarioVilas/googles
 <details open>
 <summary>Install</summary>
 
-Clone the folder on your desktop and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt).
+Clone the folder on your desktop and install [requirements.txt](https://github.com/Dayslo/GoogleSearchToolBox/blob/main/requirements.txt).
 
 ```bash
 git clone https://github.com/Dayslo/GoogleSearchToolBox.git #Clone
 cd GoogleSearchToolBox
+pip3 install -r requirements.txt
 ```
 
 </details>
