@@ -33,6 +33,17 @@ This script use the module [Google Search](https://github.com/MarioVilas/googles
  
 </details>
 
+<details open>
+<summary>Database</summary>
+
+The database folder allows you to store and view your search outputs, Example with the file Person_database.txt
+    
+<div align="center">
+<img src="https://github.com/Dayslo/Image/blob/main/Google%20Search%20ToolBox%20Database.png" width="80%"/>
+</div>
+ 
+</details>
+
 ## <div align="center">Quick Start Examples</div>
 
 <details open>
