@@ -39,7 +39,7 @@ This script use the module [Google Search](https://github.com/MarioVilas/googles
 The database folder allows you to store and view your search outputs, Example with the file Person_database.txt (Find a Person or a Word)
     
 <div align="center">
-<img src="" width="80%"/>
+<img src="https://github.com/Dayslo/Image/blob/74a05795e266c6b31e00aed355690e28217344c8/Google%20Search%20ToolBox%20Database.png" width="80%"/>
 </div>
  
 </details>
